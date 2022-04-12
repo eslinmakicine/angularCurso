@@ -34,3 +34,6 @@ O que é componente?
 ` npm start ` Comando para iniciar o projeto  
 
 Alterar o arquivo angular.json, passando false para as propriedades inlineTemplate e inlineStyle. Dessa forma ele não irá salvar o arquivo de html no mesmo arquivo
+
+### Instalando Material Components
+` ng add @angular/material `
