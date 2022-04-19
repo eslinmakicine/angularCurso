@@ -37,3 +37,8 @@ Alterar o arquivo angular.json, passando false para as propriedades inlineTempla
 
 ### Instalando Material Components
 ` ng add @angular/material `
+
+### Comando para criar um componente
+` ng g c components/template/header `
+OU
+`ng generate components/template/header `
